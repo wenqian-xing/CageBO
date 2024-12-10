@@ -1,5 +1,5 @@
 # [Black-Box Optimization with Implicit Constraints for Public Policy](https://arxiv.org/abs/2310.18449)
-Wenqian Xing, JungHo Lee, Chong Liu, Shixiang Zhu  
+[Wenqian Xing](https://wenqian-xing.github.io/), [JungHo Lee](https://jungholeestat.github.io/), [Chong Liu](https://chong-l.github.io/), [Shixiang Zhu](https://sites.google.com/view/woodyzhu/home)  
 *AAAI Conference on Artificial Intelligence (AAAI)* 2025  
 
 ## Abstract
